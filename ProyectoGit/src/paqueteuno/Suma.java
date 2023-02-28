@@ -10,9 +10,9 @@ public class Suma {
 
 	public static void main(String[] args) {
 
-		Suma sum1 = new Suma();
+		Suma sumaSergio = new Suma();
 		
-		System.out.println(sum1.suma(num1, num2));
+		System.out.println(sumaSergio.suma(num1, num2));
 			
 		
 		
