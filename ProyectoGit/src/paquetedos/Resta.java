@@ -11,9 +11,9 @@ public class Resta {
 
 	public static void main(String[] args) {
 
-		Resta rest1 = new Resta();
+		Resta resta1 = new Resta();
 		
-		System.out.println(rest1.resta(num1, num2));
+		System.out.println(resta1.resta(num1, num2));
 			
 		
 		
